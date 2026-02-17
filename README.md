@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - yu12suf -->
 
-<h1 align="center">Hi, I'm Yu12suf 👋</h1>
+<h1 align="center">Hi, I'm Yusuf 👋</h1>
 <h3 align="center">Full Stack Software Developer | Technology Enthusiast</h3>
 
 ---
