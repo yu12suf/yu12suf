@@ -69,7 +69,7 @@ _Educational project for Ethiopian universities_
 
 Feel free to connect about open source, opportunities, or just to geek out about technology:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [yuusufkadiir258@gmail.com](mailto:yuusufkadiir258@gmail.com)
 - LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 - Portfolio: [your-website.com](https://your-website.com)
 
@@ -78,10 +78,3 @@ Feel free to connect about open source, opportunities, or just to geek out about
 _Thank you for visiting my profile! Together, let's build the future — one line of code at a time._
 
 ```
-
-**Instructions:**
-- Replace placeholders (email, LinkedIn, website) with your info.
-- Edit “Featured Projects” for your key repos/projects.
-- Add/remove or reword technologies to match your expertise.
-
-Would you like me to update this as your actual profile README, or would you like to fine-tune the content first?
