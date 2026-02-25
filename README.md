@@ -57,15 +57,6 @@ I believe technology should be both accessible and empowering. My work is anchor
 ### 🔐 Security
 - Password hashing, prepared statements
 - XSS, CSRF, and file validation
-
-**Project Structure:**  
-`classes/`, `config/`, `views/`, `assets/`, `uploads/`, `database/`
-
-**Default Admin:**  
-Email: `admin@uniconnect.edu.et`  
-Password: `admin123`  
-*(Please change after first login)*
-
 _Educational project for Ethiopian universities_  
 [Project Home](https://ethiouniconnect.iceiy.com/)
 - [Project Two](#) — Another important or impressive project with a highlight.
