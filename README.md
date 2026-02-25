@@ -39,7 +39,35 @@ I believe technology should be both accessible and empowering. My work is anchor
 
 ### 🏆 Featured Projects
 
-- [Project One](#) — Short description of an impactful project, ideally with a link.
+- ## 🏫 UniConnect – University Book & Material Exchange
+
+🌐 [Live Demo](https://ethiouniconnect.iceiy.com/)
+
+**UniConnect** is a PHP/MySQL web app for Ethiopian university students to exchange, borrow, donate, or sell academic books and materials securely.
+
+**Technologies:** PHP 8.2 (OOP), MySQL, HTML5, CSS3, Bootstrap 5, JavaScript
+
+### ✨ Key Features
+- Register with university email (.edu.et)
+- Secure login, sessions, remember-me option
+- List, search, request, and manage books
+- Messaging for coordination
+- Admin dashboard: manage users, approve listings, analytics
+
+### 🔐 Security
+- Password hashing, prepared statements
+- XSS, CSRF, and file validation
+
+**Project Structure:**  
+`classes/`, `config/`, `views/`, `assets/`, `uploads/`, `database/`
+
+**Default Admin:**  
+Email: `admin@uniconnect.edu.et`  
+Password: `admin123`  
+*(Please change after first login)*
+
+_Educational project for Ethiopian universities_  
+[Project Home](https://ethiouniconnect.iceiy.com/)
 - [Project Two](#) — Another important or impressive project with a highlight.
 
 *Explore my repositories below for more!*
