@@ -7,6 +7,8 @@
 
 🌍 **Welcome to my GitHub!**  
 I'm a passionate and versatile Full Stack Software Developer focused on building robust digital solutions that create real-world impact. From dynamic front-end interfaces to scalable backend architectures, I craft technology that empowers users and organizations alike.
+
+
 HERE IS MY PORTFOLIO: https://yu12suf.github.io/yusuf-kedir-portfolio
 
 ---
