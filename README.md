@@ -7,6 +7,7 @@
 
 🌍 **Welcome to my GitHub!**  
 I'm a passionate and versatile Full Stack Software Developer focused on building robust digital solutions that create real-world impact. From dynamic front-end interfaces to scalable backend architectures, I craft technology that empowers users and organizations alike.
+HERE IS MY PORTFOLIO: https://yu12suf.github.io/yusuf-kedir-portfolio
 
 ---
 
@@ -71,7 +72,7 @@ Feel free to connect about open source, opportunities, or just to geek out about
 
 - Email: [yuusufkadiir258@gmail.com](mailto:yuusufkadiir258@gmail.com)
 - LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [your-website.com](https://your-website.com)
+- Portfolio: [[yu12suf.github.io/yusuf-kedir-portfolio]](https://yu12suf.github.io/yusuf-kedir-portfolio)
 
 ---
 
